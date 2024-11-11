@@ -18,7 +18,7 @@ A simple front-end clone of Netflix's homepage, built with HTML and CSS. This pr
 
 1. Clone the repository.
     ```bash
-    git clone https://github.com/yourusername/netflix-clone.git
+    git clone https://github.com/navyaaprabhakar/Flixnet
     ```
 2. Navigate to the project folder.
     ```bash
